@@ -1,0 +1,5 @@
+baseURL = "https://immaturana.github.io/carta-aberta-caretta-caretta"
+languageCode = "pt-br"
+title = "Alerta ao Risco da Caretta caretta"
+theme =  ["github.com/Mitrichius/hugo-theme-anubis"]
+paginate = 5
