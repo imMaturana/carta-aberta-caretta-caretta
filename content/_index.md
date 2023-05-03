@@ -29,3 +29,8 @@ Felizmente, ainda á esperanças, existem diversos projetos que atuam na proteç
 
 Não somente de projetos, ONGs e instituições, mas a contribuição social também é de grande importância, um copo descatável jogado no lixeiro, ao invés de na praia já é de grande ajuda na preservação do animal, contribuindo também para a limpeza das praias, a ajuda voluntária também é sempre bem-vinda, lutando na linha de frente para a resolução do problema.
 
+### Informações de Contato
+
+- Projeto Tamar - Ubatuba - SP: [tamaruba@tamar.org.br](mailto:tamaruba@tamar.org.br)
+- Projeto Tamar - Vitória - ES: [tamarvitoria@tamar.org.br](mailto:tamarvitoria@tamar.org.br)
+- Fundação GrupoBoticário: [Fale Conosco](https://www.fundacaogrupoboticario.org.br/pt/fale-conosco)
