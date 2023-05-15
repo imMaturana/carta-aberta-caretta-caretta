@@ -3,3 +3,6 @@ languageCode = "pt-br"
 title = "Carta-Aberta"
 theme =  ["github.com/Mitrichius/hugo-theme-anubis"]
 paginate = 5
+
+[params]
+    custom_css = ["css/style.css"]
